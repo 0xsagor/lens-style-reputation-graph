@@ -1,0 +1,10 @@
+{
+  "name": "lens-style-reputation",
+  "version": "1.0.0",
+  "description": "Composable social graph and on-chain identity",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}
